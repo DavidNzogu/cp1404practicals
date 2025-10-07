@@ -6,7 +6,7 @@ print(random.randint(5, 20))  # line 1
 print(random.randrange(3, 10, 2))  # line 2
 # Smallest number was 3
 # Largest number was 9
-# Throughout the multiple runs line 2 never produced 4
+# Throughout the multiple runs, line 2 never produced 4
 print(random.uniform(2.5, 5.5))  # line 3
 # Smallest number was 2.8731295122839287
 # largest number was 5.195020951333553
